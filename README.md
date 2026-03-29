@@ -11,6 +11,15 @@ This project reproduces the COMPAS risk score analysis originally implemented in
 \- statsmodels  
 \- scikit-learn
 
+\#\# Workflow 
+1. Load COMPAS dataset
+2. Clean and preprocess data
+3. Perform exploratory data analysis
+4. Build logistic regression model
+5. Generate predictions
+6. Evaluate model performance
+7. Conduct fairness analysis across racial groups
+
 \#\# Key Findings  
 The analysis shows disparities in model error rates across racial groups. African-American defendants have a significantly higher false positive rate than Caucasian defendants, meaning they are more likely to be incorrectly labeled high risk. Caucasian defendants show a higher false negative rate, meaning they are more likely to be incorrectly labeled low risk., consistent with the COMPAS study.
 
