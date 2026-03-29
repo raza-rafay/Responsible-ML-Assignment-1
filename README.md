@@ -21,7 +21,7 @@ This project reproduces the COMPAS risk score analysis originally implemented in
 7. Conduct fairness analysis across racial groups
 
 ## Key Findings  
-The analysis shows disparities in model error rates across racial groups. African-American defendants have a significantly higher false positive rate than Caucasian defendants, meaning they are more likely to be incorrectly labeled high risk. Caucasian defendants show a higher false negative rate, meaning they are more likely to be incorrectly labeled low risk., consistent with the COMPAS study.
+The analysis shows disparities in model error rates across racial groups. African-American defendants have a significantly higher false positive rate than Caucasian defendants, meaning they are more likely to be incorrectly labeled high risk. Caucasian defendants show a higher false negative rate, meaning they are more likely to be incorrectly labeled low risk, consistent with the COMPAS study.
 
 ## How to Run  
 Open the notebook in Google Colab and run all cells to reproduce the analysis.
