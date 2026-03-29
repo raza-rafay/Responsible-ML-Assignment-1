@@ -1,5 +1,8 @@
 # Responsible ML Assignment 1 – Translating an R Machine Learning Workflow into Python
 
+**Student:** Rafay Raza  
+**GWID:** G40856805
+
 ## Purpose  
 This project reproduces the COMPAS risk score analysis originally implemented in R using Python. The analysis includes data preprocessing, exploratory data analysis (EDA), logistic regression modeling, model evaluation, and fairness analysis across racial groups.
 
